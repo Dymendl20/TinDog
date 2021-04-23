@@ -19,11 +19,13 @@ p {
   font-size: 3.5rem;
   line-height: 1.5;
   font-weight: bold;
+  padding: 20px;
 }
 
 .section-heading {
   font-size: 3rem;
   line-height: 1.5;
+  padding: 20px;
 }
 
 /* Containers */
